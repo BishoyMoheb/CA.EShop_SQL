@@ -1,0 +1,12 @@
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\bin\Debug\net5.0\CA.EShop_SQL.Domain.deps.json
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\bin\Debug\net5.0\CA.EShop_SQL.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\bin\Debug\net5.0\ref\CA.EShop_SQL.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\bin\Debug\net5.0\CA.EShop_SQL.Domain.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.csproj.AssemblyReference.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.AssemblyInfoInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.AssemblyInfo.cs
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\ref\CA.EShop_SQL.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Domain\obj\Debug\net5.0\CA.EShop_SQL.Domain.pdb

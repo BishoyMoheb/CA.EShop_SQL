@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="14.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA.EShop_SQL.Domain\CA.EShop_SQL.Domain.csproj" />
+    <ProjectReference Include="..\CA.EShop_SQL.IntegrationEvents\CA.EShop_SQL.IntegrationEvents.csproj" />
+  </ItemGroup>
+
+</Project>

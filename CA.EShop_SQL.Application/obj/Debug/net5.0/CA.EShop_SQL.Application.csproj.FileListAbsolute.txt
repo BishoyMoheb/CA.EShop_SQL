@@ -1,0 +1,17 @@
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.Application.deps.json
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\ref\CA.EShop_SQL.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.Application.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.IntegrationEvents.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.Domain.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\bin\Debug\net5.0\CA.EShop_SQL.IntegrationEvents.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.csproj.AssemblyReference.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.AssemblyInfoInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.AssemblyInfo.cs
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.csproj.CopyComplete
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\ref\CA.EShop_SQL.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop_SQL\CA.EShop_SQL.Application\obj\Debug\net5.0\CA.EShop_SQL.Application.pdb
