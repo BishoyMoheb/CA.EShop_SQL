@@ -1,0 +1,37 @@
+version: '3.4'
+
+services:
+  ca.eshop_sql.webapi:
+    image: ${DOCKER_REGISTRY-}caeshopsqlwebapi
+    container_name: caeshopsql-webapi
+    build:
+      context: .
+      dockerfile: CA.EShop_SQL.WebAPI\Dockerfile
+    depends_on:
+    - ca.eshop_sql.db
+
+  ca.eshop_sql.db:
+    image: postgres:latest
+    container_name: caeshopsql-db
+    environment:
+      - POSTGRES_DB=caeshopsql
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=pgAdmin
+    volumes:
+      - ./.containers/db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+
+  ca.eshop_sql.mq:
+    image: rabbitmq:3-management
+    container_name: caeshopsql-mq
+    hostname: caeshopsql-mq
+    volumes:
+        - ./.containers/queue/data/:/var/lib/rabbitmq
+        - ./.containers/queue/log/:/var/log/rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    environment:
+        RABBITMQ_DEFAULT_USER: guest
+        RABBITMQ_DEFAULT_PASS: guest
